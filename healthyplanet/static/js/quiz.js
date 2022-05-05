@@ -92,11 +92,11 @@ $(function () {
 			"answer": "All of the above"
 		}, {
 			"type": "multi",
-			"title": "What would happen if you put a plastic lawn chair in the recycling bin?",
-			"optionA": "The neighbors may look at you kind of funny. ",
-			"optionB": "You'll have one less place to sit in the yard.",
+			"title": "What would happen if you put a plastic chair in the recycling bin?",
+			"optionA": "The neighbors may give you funny looks. ",
+			"optionB": "You'll have one less place to sit in the garden.",
 			"optionC": "The recycle truck may not pick it up.",
-			"optionD": "You may find a raccoon named Nyla lounging in it because she loves plastic so much she can't help herself. Plus, she's been on her feet all day and frankly is exhausted. She's just saying.  ",
+			"optionD": "You may find a raccoon sitting it because she loves plastic",
 			"answer": "The recycle truck may not pick it up."
 		}
 	];
