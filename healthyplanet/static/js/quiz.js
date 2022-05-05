@@ -96,7 +96,7 @@ $(function () {
 			"optionA": "The neighbors may give you funny looks. ",
 			"optionB": "You'll have one less place to sit in the garden.",
 			"optionC": "The recycle truck may not pick it up.",
-			"optionD": "You may find a raccoon sitting it because she loves plastic",
+			"optionD": "You may find a raccoon sitting it because she loves plastic.",
 			"answer": "The recycle truck may not pick it up."
 		}
 	];
